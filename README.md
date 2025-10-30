@@ -1,6 +1,6 @@
 # Benito Elson
 
-<h1 align="left">Olá! 👋 Eu sou o Benito Elson</h1>
+<h1 align="center">Olá! 👋 Eu sou o Benito Elson</h1>
 
 <p align="center">Estudante de Gestão de TI</p>
 
